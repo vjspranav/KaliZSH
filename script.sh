@@ -103,3 +103,5 @@ else
 fi
 
 sudo chmod +x /usr/bin/dircolors
+
+echo "Kali zsh config successfully installed. Log out and login to see the changes"
